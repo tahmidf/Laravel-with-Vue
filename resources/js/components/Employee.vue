@@ -266,3 +266,9 @@
         
     }
 </script>
+// Personal access client created successfully.
+// Client ID: 1
+// Client secret: lo7OtQKE1YnsMTXRxc5yMgzNhIpgIv00URTpJZIW
+// Password grant client created successfully.
+// Client ID: 2
+// Client secret: z1nqQ0z9TjO1mmtVxyXqKbnjXu1HdDby2h6rLSrJ

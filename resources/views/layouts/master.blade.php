@@ -10,7 +10,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-
+  <link rel="icon" href="/img/logo.png">
   <title>Employee Management</title>
   <meta name="csrf-token" content="{{ csrf_token() }}">
 
@@ -96,7 +96,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
               </li>
               <li class="nav-item">
                 <a href="#" class="nav-link">
-                  <i class="fas fa-money-check nav-icon"></i>
+                  <i class="fas fa-money-check nav-icon yellow"></i>
                   <p>Salary</p>
                 </a>
               </li>
